@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WQEObgZlm5Y=",
+  "dgSpecHash": "EeqzFYCY/gs=",
   "success": true,
   "projectFilePath": "c:\\Projetos\\minimal-api\\minimal-api.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\Jhonny\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.0-rc.2.25502.107\\microsoft.entityframeworkcore.analyzers.10.0.0-rc.2.25502.107.nupkg.sha512",
     "C:\\Users\\Jhonny\\.nuget\\packages\\microsoft.entityframeworkcore.design\\10.0.0-rc.2.25502.107\\microsoft.entityframeworkcore.design.10.0.0-rc.2.25502.107.nupkg.sha512",
     "C:\\Users\\Jhonny\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.0-rc.2.25502.107\\microsoft.entityframeworkcore.relational.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\Jhonny\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.0-rc.2.25502.107\\microsoft.entityframeworkcore.tools.10.0.0-rc.2.25502.107.nupkg.sha512",
     "C:\\Users\\Jhonny\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.0-rc.2.25502.107\\microsoft.extensions.caching.abstractions.10.0.0-rc.2.25502.107.nupkg.sha512",
     "C:\\Users\\Jhonny\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.0-rc.2.25502.107\\microsoft.extensions.caching.memory.10.0.0-rc.2.25502.107.nupkg.sha512",
     "C:\\Users\\Jhonny\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.0-rc.2.25502.107\\microsoft.extensions.configuration.abstractions.10.0.0-rc.2.25502.107.nupkg.sha512",
